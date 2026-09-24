@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 570">
+  <defs><linearGradient id="bg" x1="0" x2="1" y2="1"><stop stop-color="#303332"/><stop offset="1" stop-color="#121717"/></linearGradient><linearGradient id="line"><stop stop-color="#2446e8" stop-opacity="0"/><stop offset="1" stop-color="#5170ff"/></linearGradient></defs>
+  <path fill="url(#bg)" d="M0 0h800v570H0z"/>
+  <g stroke="#484e4c" opacity=".3"><path d="M0 394 800 135M0 448 800 188M0 506 800 245M0 566 800 304"/><path d="m800 570-58-570M635 570l-66-570M450 570 375 0M255 570 172 0"/></g>
+  <path d="m-40 530 726-220" stroke="url(#line)" stroke-width="14"/><path d="m-55 487 706-214" stroke="url(#line)" stroke-width="3"/><path d="m-60 566 820-252" stroke="url(#line)" stroke-width="2"/>
+  <text x="49" y="170" fill="#f0f2ed" font-family="Arial,sans-serif" font-weight="700" font-size="81" letter-spacing="-5">MAKE</text><text x="47" y="250" fill="#f0f2ed" font-family="Arial,sans-serif" font-weight="700" font-size="81" letter-spacing="-5">YOUR MOVE.</text>
+  <text x="54" y="291" fill="#9ca9a6" font-family="monospace" font-size="10" letter-spacing="3">A STUDY IN MOTION &amp; ATTENTION</text>
+  <g transform="translate(442 128) rotate(10)"><rect width="194" height="259" rx="3" fill="#3657e9"/><path d="M18 18h158v223H18z" fill="none" stroke="#9cb0ff" stroke-opacity=".4"/><text x="29" y="58" fill="white" font-family="Arial,sans-serif" font-size="17" font-weight="700">START WITH</text><text x="29" y="84" fill="white" font-family="Arial,sans-serif" font-size="17" font-weight="700">A REASON.</text><path d="m50 182 83-83m-83 0h83v83" fill="none" stroke="#d9e1ff" stroke-width="13"/><text x="29" y="226" fill="#c6d2ff" font-family="monospace" font-size="8" letter-spacing="2">ATTENTION → ACTION</text></g>
+  <text x="53" y="472" fill="#8e9d98" font-family="monospace" font-size="9" letter-spacing="2">CONTENT EXPLORATION</text><text x="51" y="506" fill="#d6ddd8" font-family="Arial,sans-serif" font-size="23" letter-spacing="-.5">Yamaha / Campaign studies</text><text x="652" y="504" fill="#8e9d98" font-family="monospace" font-size="9">A · I · D · A</text>
+</svg>

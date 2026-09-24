@@ -1,0 +1,14 @@
+{
+  "name": "iki-personal-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "The personal portfolio of Farrizqi Ichsan Maulana — digital business, creative strategy and visual storytelling.",
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "build": "node scripts/build.mjs",
+    "preview": "node scripts/dev.mjs --dist",
+    "standalone": "node scripts/standalone.mjs"
+  },
+  "engines": { "node": ">=20" }
+}

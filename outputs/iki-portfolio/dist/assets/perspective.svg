@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 630" fill="none">
+  <defs>
+    <linearGradient id="wall" x1="64" y1="26" x2="486" y2="603" gradientUnits="userSpaceOnUse"><stop stop-color="#eeefec"/><stop offset=".55" stop-color="#b5b8b2"/><stop offset="1" stop-color="#797d78"/></linearGradient>
+    <linearGradient id="inside" x1="373" y1="112" x2="79" y2="600" gradientUnits="userSpaceOnUse"><stop stop-color="#c7cbc5"/><stop offset=".7" stop-color="#555c58"/><stop offset="1" stop-color="#222a27"/></linearGradient>
+    <linearGradient id="blue" x1="222" y1="146" x2="388" y2="338" gradientUnits="userSpaceOnUse"><stop stop-color="#4168ff"/><stop offset=".55" stop-color="#2446e8"/><stop offset="1" stop-color="#13329a"/></linearGradient>
+    <linearGradient id="floor" x1="79" y1="430" x2="420" y2="630" gradientUnits="userSpaceOnUse"><stop stop-color="#abafa8"/><stop offset="1" stop-color="#313a35"/></linearGradient>
+    <pattern id="grain" width="5" height="5" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".55" fill="#fff" opacity=".13"/><circle cx="4" cy="3" r=".4" fill="#000" opacity=".13"/></pattern>
+  </defs>
+  <path fill="url(#wall)" d="M0 0h520v630H0z"/>
+  <path d="M-54 557V263C-54 69 82-63 278-63s301 136 301 320v373H-54Z" fill="#e8e9e5"/>
+  <path d="M23 630V270C23 112 133 2 284 2s261 110 261 268v360H23Z" fill="#a5aaa3"/>
+  <path d="M39 630V281C39 139 143 30 284 30s244 109 244 251v349H39Z" fill="url(#wall)"/>
+  <path d="M105 630V302c0-117 79-205 189-205s199 88 199 205v328H105Z" fill="#606a62"/>
+  <path d="M119 630V305c0-111 78-190 177-190s183 79 183 190v325H119Z" fill="url(#inside)"/>
+  <path d="M188 630V324c0-79 45-143 117-143s129 64 129 143v306H188Z" fill="#343f36"/>
+  <path d="M200 630V326c0-77 43-130 107-130s114 53 114 130v304H200Z" fill="#9aaba5"/>
+  <path d="M227 472V331c0-60 30-104 81-104s86 44 86 104v141H227Z" fill="#cad3cb"/>
+  <circle cx="310" cy="303" r="61" fill="url(#blue)"/>
+  <path d="m0 630 227-186h167l126 108v78H0Z" fill="url(#floor)"/>
+  <path d="m0 630 250-186h31L74 630H0Z" fill="#e1e3da" opacity=".5"/>
+  <path d="M324 444 224 630h155l-20-186h-35Z" fill="#e5e6de" opacity=".43"/>
+  <path d="M393 444 520 551v79H468l-90-186h15Z" fill="#151f18" opacity=".57"/>
+  <g stroke="#3e4740" stroke-width="1" opacity=".4"><path d="M0 616h520M50 573h470M93 539h426M131 508h338M162 482h278M189 461h227"/><path d="m71 630 190-186M175 630l107-186M400 630l-48-186M498 630 379 444"/></g>
+  <path d="M0 0h520v630H0z" fill="url(#grain)"/>
+  <path d="M520 0v630" stroke="#181e1c" stroke-width="32" opacity=".13"/>
+  <text x="488" y="294" transform="rotate(90 488 294)" fill="#fff" opacity=".7" font-family="monospace" font-size="7" letter-spacing="3">FIND YOUR OWN PERSPECTIVE</text>
+</svg>

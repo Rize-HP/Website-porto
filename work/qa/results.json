@@ -1,0 +1,17 @@
+{
+  "date": "2026-09-24T02:11:41.377Z",
+  "browser": "153.0.8010.54",
+  "results": [
+    "Six projects, one H1, verified social links and working email CTA",
+    "All four project filters update cards and accessible state",
+    "Six case studies: seven sections, focus containment, Escape and focus restoration",
+    "Next case, browser Back, direct case links and unknown-case fallback",
+    "Sticky navigation and active section follow scrolling",
+    "No horizontal overflow or clipped headings at 320, 375, 390, 600, 768, 820, 1024, 1440, 1920px",
+    "Mobile menu, Escape, section navigation and full-screen case study",
+    "Static content and contact links remain available with JavaScript disabled",
+    "Viewport reveals and live reduced-motion preference changes",
+    "No JavaScript errors or missing assets during the full browser run"
+  ],
+  "errors": []
+}

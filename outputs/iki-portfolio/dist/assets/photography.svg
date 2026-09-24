@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 570">
+  <defs><linearGradient id="wall" x1="0" x2="1" y2="1"><stop stop-color="#ecece7"/><stop offset="1" stop-color="#a5aaa3"/></linearGradient><linearGradient id="shade" x1="0" x2="1"><stop stop-color="#333a36"/><stop offset="1" stop-color="#6c746c"/></linearGradient><pattern id="grain" width="6" height="6" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".65" fill="#000" opacity=".06"/><circle cx="4" cy="4" r=".65" fill="#fff" opacity=".18"/></pattern></defs>
+  <path fill="#dcded7" d="M0 0h800v570H0z"/>
+  <path d="M0 0h800v400H0Z" fill="url(#wall)"/>
+  <path d="M92 0h276v402H92Z" fill="#484f49"/>
+  <path d="M122 0h204v402H122Z" fill="url(#shade)"/>
+  <path d="M150 0h176v402H150Z" fill="#bfc5b9"/>
+  <path d="M181 0h43v402h-43Z" fill="#e7e9de"/>
+  <path d="M226 0h25v402h-25Z" fill="#747d70"/>
+  <path d="M272 0h25v402h-25Z" fill="#e7e9de"/>
+  <path d="m800 0-334 400h334V0Z" fill="#242d27"/>
+  <path d="m800 143-215 257h215V143Z" fill="#404a42"/>
+  <path d="M0 401h800v169H0Z" fill="#91998b"/>
+  <path d="m0 570 152-169h70L72 570H0Z" fill="#e7e9dd"/><path d="m140 570 88-169h23l-43 169h-68Z" fill="#535e50"/><path d="m250 570 24-169h22l58 169H250Z" fill="#e7e9dd"/><path d="m445 570-75-169h106l278 169H445Z" fill="#444e43"/>
+  <path d="M0 0h800v570H0z" fill="url(#grain)"/>
+  <path d="M35 70v-28h28M737 42h28v28M35 483v28h28M737 511h28v-28" stroke="#fff" stroke-opacity=".7" fill="none"/>
+  <rect x="423" y="111" width="258" height="126" fill="#f3f4eb" opacity=".93"/><text x="446" y="155" fill="#384233" font-family="Georgia,serif" font-size="30" font-style="italic">Between light</text><text x="446" y="193" fill="#384233" font-family="Georgia,serif" font-size="30" font-style="italic">and a little story.</text><text x="447" y="217" fill="#737f6b" font-family="monospace" font-size="7" letter-spacing="2">AN EXERCISE IN SEEING</text>
+  <text x="565" y="488" fill="#e9eee1" font-family="monospace" font-size="8" letter-spacing="2">FRAME 006 / VISUAL STUDY</text>
+</svg>
